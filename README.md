@@ -28,3 +28,33 @@ Group1;Текст
 -------------------------
 Автоматическая отправка сообщений по различным событиям и условиям производится посредством модуля автоматичекого управления.
 
+KpSmsBliss
+================
+ 
+Driver KpSmsBliss.dll is a library for Scada Communicator of RapidScada project. With this library it is able to send SMS via service smsbliss.ru.
+
+Driver config
+-------------------
+
+Configuration of the driver is similar to any communicator dll.
+### Адрес REST API
+Address of REST API script
+### Пользователь
+smsbliss.ru login
+### Пароль
+smsbliss.ru password
+### Имя отправителя
+Sender`s name. Be sure, you have registered this name in service.
+
+Send messages
+--------------------
+To send message send binary string command of tte following format:
+### Examples
++71234567890;Текст
+
+Group1;Текст
+
+Send messages automatically
+-------------------------
+Automatic messages can sent by automatic control module 
+
