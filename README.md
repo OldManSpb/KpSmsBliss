@@ -48,7 +48,7 @@ Sender`s name. Be sure, you have registered this name in service.
 
 Send messages
 --------------------
-To send message send binary string command of tte following format:
+To send message send binary string command of the following format:
 ### Examples
 +71234567890;Текст
 
@@ -56,5 +56,5 @@ Group1;Текст
 
 Send messages automatically
 -------------------------
-Automatic messages can sent by automatic control module 
+Automatic messages can be sent by automatic control module 
 
