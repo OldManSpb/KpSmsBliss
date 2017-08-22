@@ -1,5 +1,5 @@
 ﻿/*
- * Copyright 2017 Mikhail Shiryaev
+ * Copyright 2017 Mikhail Shiryaev & Andrew Saenko
  * 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@
  * Module   : KpEmail
  * Summary  : Device communication logic
  * 
- * Author   : Mikhail Shiryaev
+ * Author   : Mikhail Shiryaev & Andrew Saenko
  * Created  : 2016
  * Modified : 2017
  * 
